@@ -1,0 +1,11 @@
+# Build artifacts
+video_sort
+src/*.o
+
+# Generated output video
+*_sorted.avi
+
+# OS / IDE
+.DS_Store
+*.swp
+*.swo
